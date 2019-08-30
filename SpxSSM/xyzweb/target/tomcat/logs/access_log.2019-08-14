@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:18:08 +0800] "GET /xyz-web HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:18:08 +0800] "GET /xyz-web/ HTTP/1.1" 302 - http-bio-8888-exec-3 132
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:18:09 +0800] "GET /xyz-web/login.jsp HTTP/1.1" 200 2813 http-bio-8888-exec-4 1024
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:18:10 +0800] "GET /xyz-web/img/bg1.png HTTP/1.1" 304 - http-bio-8888-exec-5 9
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:18:55 +0800] "POST /xyz-web/login.do HTTP/1.1" 200 13337 http-bio-8888-exec-6 2105
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:19:01 +0800] "GET /xyz-web/sysLog/findAll.do?first1=1&end1=10 HTTP/1.1" 200 20727 http-bio-8888-exec-8 747
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:19:07 +0800] "GET /xyz-web/sysLog/findAll.do?first1=16&emd1=10 HTTP/1.1" 200 17617 http-bio-8888-exec-9 32
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:19:15 +0800] "GET /xyz-web/user/findAll.do?first1=1&end1=5 HTTP/1.1" 200 18913 http-bio-8888-exec-9 363
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:19:15 +0800] "GET /xyz-web/plugins/open.js HTTP/1.1" 304 - http-bio-8888-exec-1 2
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:19:15 +0800] "GET /xyz-web/plugins/close.js HTTP/1.1" 304 - http-bio-8888-exec-10 3
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:19:20 +0800] "GET /xyz-web/role/findAll.do?first1=1&end1=5 HTTP/1.1" 200 18390 http-bio-8888-exec-10 201
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:19:23 +0800] "GET /xyz-web/sysLog/findAll.do?first1=1&end1=10 HTTP/1.1" 200 20727 http-bio-8888-exec-5 40
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:19:24 +0800] "GET /xyz-web/sysLog/findAll.do?first1=16&emd1=10 HTTP/1.1" 200 19165 http-bio-8888-exec-5 30
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:22:11 +0800] "GET /xyz-web/orders/findAll.do?first=1&end=5 HTTP/1.1" 200 22749 http-bio-8888-exec-7 209
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:18:22:14 +0800] "GET /xyz-web/product/fandAll.do?first1=1&end1=5 HTTP/1.1" 200 24271 http-bio-8888-exec-9 241
